@@ -1,6 +1,6 @@
 {
   "name": "blood-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utility of blood donation in Taiwan",
   "main": "index.js",
   "directories": {
@@ -11,6 +11,7 @@
   },
   "author": "Yuren Ju <yurenju@gmail.com>",
   "license": "MIT",
+  "repository": "yurenju/blood-utils",
   "devDependencies": {
     "chai": "^3.0.0",
     "istanbul": "^0.3.17",
