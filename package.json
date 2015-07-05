@@ -1,0 +1,19 @@
+{
+  "name": "blood-utils",
+  "version": "0.0.1",
+  "description": "Utility of blood donation in Taiwan",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha"
+  },
+  "author": "Yuren Ju <yurenju@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5"
+  }
+}
