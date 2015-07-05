@@ -2,6 +2,15 @@
 
 Utility of blood donation in Taiwan
 
+# Criteria in Taiwan
+
+1. Male only can donate 1500cc per year
+2. Female only can donate 1000cc per year
+3. You have to wait 3 months for next donation if you donate 500cc
+4. You have to wait 2 months for next donation if you donate 250cc
+5. You have to wait 2 weeks if you donate blood which type is Apheresis Platelets (PH)
+6. You only can donate blood of PH type 24 times per year
+
 # Install
 
 ```shell
