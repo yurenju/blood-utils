@@ -1,4 +1,4 @@
-# blood-utils
+# blood-utils [![Build Status](https://travis-ci.org/yurenju/blood-utils.svg?branch=master)](https://travis-ci.org/yurenju/blood-utils) [![Coverage Status](https://coveralls.io/repos/yurenju/blood-utils/badge.svg?branch=master)](https://coveralls.io/r/yurenju/blood-utils?branch=master)
 
 Utility of blood donation in Taiwan
 
