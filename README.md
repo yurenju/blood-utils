@@ -63,3 +63,7 @@ bloodUtils.checkYearlyVolume('male', donations, 2015);
 ```
 
 See [blood-utils-test.js](test/blood-utils-test.js) to get more examples.
+
+# License
+
+[MIT license](LICENST)
