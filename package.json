@@ -7,13 +7,15 @@
     "test": "test"
   },
   "scripts": {
-    "test": "istanbul cover _mocha"
+    "test": "istanbul cover _mocha",
+    "coveralls": "cat coverage/lcov.info | coveralls"
   },
   "author": "Yuren Ju <yurenju@gmail.com>",
   "license": "MIT",
   "repository": "yurenju/blood-utils",
   "devDependencies": {
     "chai": "^3.0.0",
+    "coveralls": "^2.11.2",
     "istanbul": "^0.3.17",
     "mocha": "^2.2.5"
   }
